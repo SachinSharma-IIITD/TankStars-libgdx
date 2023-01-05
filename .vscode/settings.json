@@ -1,0 +1,21 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "search.useGlobalIgnoreFiles": true,
+    "scm.defaultViewMode": "tree",
+    "explorer.fileNesting.enabled": true,
+    "files.exclude": {
+        ".*": true,
+        "**/*gradle*": true,
+        "*gradle*": true
+    },
+    "editor.foldingImportsByDefault": true,
+    "editor.foldingHighlight": false,
+    "editor.inlayHints.padding": true,
+    "editor.tabCompletion": "on",
+    "editor.formatOnPaste": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "editor.lineHeight": 1.7
+}
